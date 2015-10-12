@@ -18,7 +18,7 @@ June 2015
 TestFCM (Fuzzy C-Means)
 Tahmid Mehdi
 MATLAB
-Performs k-means clustering on data and calculates accuracy using rand index or pairwise agreement.
+Performs fuzzy c-means clustering on data and calculates accuracy using rand index or pairwise agreement.
 https://github.com/tahmidmehdi/machine_learning_classification
 June 2015
 
